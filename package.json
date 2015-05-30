@@ -1,6 +1,6 @@
 {
   "name": "magicword",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Generate a password of any length with several composability options (CLI)",
   "scripts": {
     "test": "mocha"
