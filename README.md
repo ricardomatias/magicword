@@ -1,4 +1,4 @@
-# lockme [![Build Status](https://travis-ci.org/ricardomatias/magicword.svg)](https://travis-ci.org/ricardomatias/magicword)
+# magicword [![Build Status](https://travis-ci.org/ricardomatias/magicword.svg)](https://travis-ci.org/ricardomatias/magicword)
 
 > Generate a password of any length with several composability options (CLI)
 
