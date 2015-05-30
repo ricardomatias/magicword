@@ -1,0 +1,42 @@
+{
+  "name": "magicword",
+  "version": "0.0.1",
+  "description": "Generate a password of any length with several composability options (CLI)",
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": ">=0.12"
+  },
+  "bin": {
+    "lockme": "cli.js"
+  },
+  "files": [
+    "index.js",
+    "cli.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ricardomatias/magicword"
+  },
+  "keywords": [
+    "magicword",
+    "password",
+    "pw",
+    "generate"
+  ],
+  "author": "Ricardo Matias <ricardo.matias0@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ricardomatias/magicword/issues"
+  },
+  "homepage": "https://github.com/ricardomatias/magicword",
+  "dependencies": {
+    "get-stdin": "^4.0.1",
+    "meow": "^3.1.0"
+  },
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.2.5"
+  }
+}
