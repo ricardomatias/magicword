@@ -17,7 +17,7 @@ magicword
 > Rx<4=B7%z
 magicword 15
 > t$$:n6g&mesEG$I
-magicword 15 --upper -numbers
+magicword 15 --upper --numbers
 > 71V48N434K6VUBE
 ```
 
