@@ -17,8 +17,8 @@
     "plusplus": false,
     "quotmark": "single",
     "undef": true,
-    "unused": false,
-    "strict": false,
+    "unused": true,
+    "strict": true,
     "maxparams": 10,
     "maxdepth": 5,
     "maxstatements": 40,
@@ -52,12 +52,5 @@
     "noyield": false,
 
     "browser": true,
-    "node": true,
-
-    "globals": {
-        "angular": false,
-        "$": false,
-        "Promise": true,
-        "chroma": true
-    }
+    "node": true
 }
