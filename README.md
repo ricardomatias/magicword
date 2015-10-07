@@ -19,14 +19,16 @@ magicword 15
 > t$$:n6g&mesEG$I
 magicword 15 --upper --numbers
 > 71V48N434K6VUBE
+magicword 10 -s -l
+> %;k#r=$uik
 ```
 
 ### Flags
 
-* `upper` - Uppercase letters
-* `lower` - Lowercase letters
-* `numbers` - Numbers
-* `symbols` - Symbols
+* `upper` or `u` - Uppercase letters
+* `lower` or `l` - Lowercase letters
+* `numbers` or `n` - Numbers
+* `symbols` or `s` - Symbols
 
 ## Usage
 

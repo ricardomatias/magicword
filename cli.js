@@ -25,7 +25,6 @@ if (process.stdin.isTTY) {
     if (cli.flags.h || cli.flags.help) {
         return cli.showHelp();
     }
-    var a = 'upper, lower, numbers, symbols';
 
     if (Object.keys(cli.flags).length > 0) {
         return console.log(magicword(passwordLength, cli.flags));
