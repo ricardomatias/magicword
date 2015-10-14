@@ -9,7 +9,7 @@
     "node": ">=0.12"
   },
   "bin": {
-    "lockme": "cli.js"
+    "magicword": "cli.js"
   },
   "files": [
     "index.js",
